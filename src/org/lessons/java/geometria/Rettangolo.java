@@ -14,14 +14,16 @@ costruttore con parametri. Aggiungere due metodi: calcolaArea e calcolaPerimetro
      this.base=base;
     }
 
-
+//
 
      //Metodi
         double calcolaArea(){
+        
          double area=altezza*base;
         return area;
         }
         double calcoloPerimetro(){
+
         double perimetro=(altezza+base)*2;
         return perimetro;
         }
