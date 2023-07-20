@@ -14,9 +14,6 @@ costruttore con parametri. Aggiungere due metodi: calcolaArea e calcolaPerimetro
      this.base=base;
     }
 
-    /* public Rettangolo() {
-
-     }*/
 
 
      //Metodi
